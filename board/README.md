@@ -16,12 +16,12 @@
 
 ### 原理图
 
-![image-sch](.\image\image-sch.png)
+![image-sch](board\image\image-sch.png)
 
 ### PCB
 
-![image-pcb](.\image\image-pcb.png)
+![image-pcb](board\image\image-pcb.png)
 
 ### 实物图
 
-![image-real](.\image\image-real.png)
+![image-real](board\image\image-real.png)
