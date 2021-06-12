@@ -20,7 +20,7 @@
 
 ### PCB
 
-![image-pcb](board\image\image-pcb.png)
+![image-pcb](https://github.com/mensan12138/magic_mirror/blob/main/board/image/image-pcb.png)
 
 ### 实物图
 
