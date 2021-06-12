@@ -16,7 +16,7 @@
 
 ### 原理图
 
-![image-sch](board\image\image-sch.png)
+![image-sch](https://github.com/mensan12138/magic_mirror/blob/main/board/image/image-sch.png)
 
 ### PCB
 
@@ -24,4 +24,4 @@
 
 ### 实物图
 
-![image-real](board\image\image-real.png)
+![image-real](https://github.com/mensan12138/magic_mirror/blob/main/board/image/image-real.png)
