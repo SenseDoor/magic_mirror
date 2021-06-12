@@ -16,12 +16,12 @@
 
 ### 原理图
 
-![image-20210612191228282](C:\Users\门三\AppData\Roaming\Typora\typora-user-images\image-20210612191228282.png)
+![image-sch](\image\image-sch.png)
 
 ### PCB
 
-![image-20210612191309765](C:\Users\门三\AppData\Roaming\Typora\typora-user-images\image-20210612191309765.png)
+![image-pcb](\image\image-pcb.png)
 
 ### 实物图
 
-![image-20210612191627714](C:\Users\门三\AppData\Roaming\Typora\typora-user-images\image-20210612191627714.png)
+![image-real](\image\image-real.png)
