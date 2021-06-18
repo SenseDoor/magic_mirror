@@ -3,3 +3,4 @@
 ## 实物照片
 ![image](https://github.com/SenseDoor/magic_mirror/blob/main/image/20210618223805.jpg)
 ![image](https://github.com/SenseDoor/magic_mirror/blob/main/image/20210618223746.jpg)
+![image](https://github.com/SenseDoor/magic_mirror/blob/main/image/20210618224051.jpg)
